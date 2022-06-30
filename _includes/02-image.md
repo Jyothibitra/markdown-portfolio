@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image](https://lnttsgroup-my.sharepoint.com/personal/bitra_jyothi_ltts_com/Documents/Pictures/iiii.jpg?Web=1) alt-text!
